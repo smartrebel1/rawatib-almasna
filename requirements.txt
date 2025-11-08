@@ -1,0 +1,16 @@
+# Factory Payroll Management System - Requirements
+# متطلبات نظام إدارة رواتب المصنع
+
+# Python Standard Library (متضمنة في Python - No installation needed)
+# tkinter - للواجهة الرسومية (included with Python)
+# json - لتخزين البيانات (included with Python)
+# os - لعمليات الملفات (included with Python)
+# datetime - للتواريخ (included with Python)
+# shutil - للنسخ الاحتياطي (included with Python)
+
+# ملاحظة: جميع المكتبات متضمنة في Python 3.7+
+# Note: All libraries are included with Python 3.7+
+
+# لتحويل البرنامج إلى EXE (اختياري):
+# For converting to EXE (optional):
+pyinstaller>=5.0
