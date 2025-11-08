@@ -1,0 +1,22 @@
+[
+  {"emp_id": "001", "name": "موظف 1", "position": "فني", "base_salary": 13515.97, "hours_per_day": 8, "insurance_deduction": 0},
+  {"emp_id": "002", "name": "موظف 2", "position": "فني", "base_salary": 7306.2, "hours_per_day": 8, "insurance_deduction": 253},
+  {"emp_id": "003", "name": "موظف 3", "position": "فني", "base_salary": 9220.2, "hours_per_day": 8, "insurance_deduction": 253},
+  {"emp_id": "004", "name": "موظف 4", "position": "فني", "base_salary": 9220.2, "hours_per_day": 8, "insurance_deduction": 253},
+  {"emp_id": "005", "name": "موظف 5", "position": "فني", "base_salary": 6755.1, "hours_per_day": 8, "insurance_deduction": 253},
+  {"emp_id": "006", "name": "موظف 6", "position": "فني", "base_salary": 8539.3, "hours_per_day": 8, "insurance_deduction": 253},
+  {"emp_id": "007", "name": "موظف 7", "position": "فني", "base_salary": 9220.2, "hours_per_day": 8, "insurance_deduction": 0},
+  {"emp_id": "008", "name": "موظف 8", "position": "فني", "base_salary": 6650, "hours_per_day": 8, "insurance_deduction": 253},
+  {"emp_id": "009", "name": "موظف 9", "position": "فني", "base_salary": 9639.3, "hours_per_day": 8, "insurance_deduction": 253},
+  {"emp_id": "010", "name": "موظف 10", "position": "فني", "base_salary": 7232.5, "hours_per_day": 8, "insurance_deduction": 253},
+  {"emp_id": "011", "name": "موظف 11", "position": "فني", "base_salary": 9220.2, "hours_per_day": 8, "insurance_deduction": 253},
+  {"emp_id": "012", "name": "موظف 12", "position": "فني", "base_salary": 8767, "hours_per_day": 8, "insurance_deduction": 253},
+  {"emp_id": "013", "name": "موظف 13", "position": "فني", "base_salary": 9639.3, "hours_per_day": 8, "insurance_deduction": 253},
+  {"emp_id": "014", "name": "موظف 14", "position": "فني", "base_salary": 5784.9, "hours_per_day": 8, "insurance_deduction": 253},
+  {"emp_id": "015", "name": "موظف 15", "position": "فني", "base_salary": 9220.2, "hours_per_day": 8, "insurance_deduction": 308},
+  {"emp_id": "016", "name": "موظف 16", "position": "فني", "base_salary": 8200, "hours_per_day": 8, "insurance_deduction": 253},
+  {"emp_id": "017", "name": "موظف 17", "position": "فني", "base_salary": 7382.1, "hours_per_day": 8, "insurance_deduction": 275},
+  {"emp_id": "018", "name": "موظف 18", "position": "فني", "base_salary": 3825, "hours_per_day": 6, "insurance_deduction": 0},
+  {"emp_id": "019", "name": "موظف 19", "position": "فني", "base_salary": 6200, "hours_per_day": 8, "insurance_deduction": 253},
+  {"emp_id": "020", "name": "موظف 20", "position": "فني", "base_salary": 6400, "hours_per_day": 8, "insurance_deduction": 253}
+]
